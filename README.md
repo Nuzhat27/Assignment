@@ -16,7 +16,7 @@ It showcases modern UI design, animations, and product sections.
 - Clean and elegant UI
 
 ## Live Demo
-https://your-project-name.vercel.app
+https://assignment-phi-tawny.vercel.app/
 
 ## How to Run Locally
 1. Download or clone the repository
