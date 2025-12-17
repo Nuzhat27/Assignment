@@ -23,4 +23,4 @@ https://your-project-name.vercel.app
 2. Open `index.html` in any modern browser
 
 ## Author
-Your Name
+Nuzhat
